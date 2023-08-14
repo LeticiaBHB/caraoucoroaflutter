@@ -3,7 +3,7 @@ heads or tails game, developed in flutter with responsiveness
 
 | Image 1 | Image 2 | 
 |----------|----------|
-| ![App Screenshot](screenshots/1.jpeg) | ![App Screenshot](screenshots/2.jpeg) | !
+| ![App Screenshot](screenshot/1.jpeg) | ![App Screenshot](screenshot/2.jpeg) | !
 
 ##License
 MIT License
